@@ -7,8 +7,9 @@ In order to create RealNumbers.pdf you need to do the following steps.
 <li> Clone the repository [ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper) <br/>
   git clone https://github.com/ElegantLaTeX/ElegantPaper.git
 </li>
-<li> Copy RealNumbers.tex into the directory "ElegantPaper"</li>
- <li>Change directory to "ElegantPaper"  and execute <br/>
+<li> Copy the content of "ElegantPaper" directory into the directory "Real_Numbers". On Unix it will be <br/>
+    cp -r ElegantPaper/* Real_Numbers/ </li>
+ <li>Change the directory to "Real_Numbers"  and execute <br/>
      xelatex RealNumbers.tex
  </li> 
 </ul>
