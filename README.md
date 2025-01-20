@@ -1,4 +1,3 @@
-Real Numbers
 In order to create a pdf version of Real_Numbers you need to do the following steps.
 <ul>
 <li> Install LaTeX/TeX on your computer.</li>
