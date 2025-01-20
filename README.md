@@ -9,7 +9,7 @@ In order to create RealNumbers.pdf you need to do the following steps.
 </li>
 <li> Copy the content of "ElegantPaper" directory into the directory "Real_Numbers". On Unix it will be <br/>
     cp -r ElegantPaper/* Real_numbers/ </li>
- <li>Change the directory to "Real_Numbers"  and execute <br/>
+ <li>Change the directory to "Real_numbers"  and execute <br/>
      xelatex RealNumbers.tex
  </li> 
 </ul>
